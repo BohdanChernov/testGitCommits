@@ -10,6 +10,7 @@ public class TestGitCommitsApplication {
         SpringApplication.run(TestGitCommitsApplication.class, args);
         //1
         //2
+        //3
     }
 
 }
