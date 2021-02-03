@@ -9,6 +9,7 @@ public class TestGitCommitsApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestGitCommitsApplication.class, args);
         //1
+        //2
     }
 
 }
